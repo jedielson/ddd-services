@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/jedielson/ddd-services/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/jedielson/ddd-services</projectUrl>
+    <!--<iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>
+      Versão 1.0.0.0
+      - Primeira versão da aplicação.
+    </releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>ddd ddd-domain-services design-patterns</tags>
+  </metadata>
+</package>
