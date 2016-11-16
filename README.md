@@ -1,6 +1,10 @@
 # ddd-services
 A support library to the application domain, according to the DDD architecture pattern. It provides a set of features for use of pattern DomainServices
 
+## How to Use
+
+Install-Package Ddd.Services.Pcl
+
 ## License
 
 The MIT License (MIT)
